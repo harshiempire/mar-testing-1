@@ -1,0 +1,2 @@
+2024-11-25T19:42:16,417 - HandlerTime.ms:37.83|#ModelName:car_price_prediction,Level:Model|#hostname:Harshiths-MacBook-Air.local,requestID:19dc809d-67cc-4258-80c3-3fbd05917cd9,timestamp:1732543936
+2024-11-25T19:42:16,418 - PredictionTime.ms:37.9|#ModelName:car_price_prediction,Level:Model|#hostname:Harshiths-MacBook-Air.local,requestID:19dc809d-67cc-4258-80c3-3fbd05917cd9,timestamp:1732543936

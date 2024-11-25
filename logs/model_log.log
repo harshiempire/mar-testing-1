@@ -1,0 +1,181 @@
+2024-11-25T19:41:51,091 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9004
+2024-11-25T19:41:51,097 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - Successfully loaded /Users/harshithalle/miniconda3/envs/cs224n/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-11-25T19:41:51,097 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - [PID]89712
+2024-11-25T19:41:51,098 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - Torch worker started.
+2024-11-25T19:41:51,098 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - Python runtime: 3.12.5
+2024-11-25T19:41:51,121 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9004).
+2024-11-25T19:41:51,121 [INFO ] W-9007-car_price_prediction_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9007
+2024-11-25T19:41:51,126 [INFO ] W-9007-car_price_prediction_1.0-stdout MODEL_LOG - Successfully loaded /Users/harshithalle/miniconda3/envs/cs224n/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-11-25T19:41:51,127 [INFO ] W-9007-car_price_prediction_1.0-stdout MODEL_LOG - [PID]89714
+2024-11-25T19:41:51,127 [INFO ] W-9007-car_price_prediction_1.0-stdout MODEL_LOG - Torch worker started.
+2024-11-25T19:41:51,127 [INFO ] W-9007-car_price_prediction_1.0-stdout MODEL_LOG - Python runtime: 3.12.5
+2024-11-25T19:41:51,136 [INFO ] W-9002-car_price_prediction_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9002
+2024-11-25T19:41:51,139 [INFO ] W-9007-car_price_prediction_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9007).
+2024-11-25T19:41:51,141 [INFO ] W-9002-car_price_prediction_1.0-stdout MODEL_LOG - Successfully loaded /Users/harshithalle/miniconda3/envs/cs224n/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-11-25T19:41:51,141 [INFO ] W-9002-car_price_prediction_1.0-stdout MODEL_LOG - [PID]89713
+2024-11-25T19:41:51,142 [INFO ] W-9002-car_price_prediction_1.0-stdout MODEL_LOG - Torch worker started.
+2024-11-25T19:41:51,142 [INFO ] W-9002-car_price_prediction_1.0-stdout MODEL_LOG - Python runtime: 3.12.5
+2024-11-25T19:41:51,146 [INFO ] W-9002-car_price_prediction_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9002).
+2024-11-25T19:41:51,147 [INFO ] W-9005-car_price_prediction_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9005
+2024-11-25T19:41:51,149 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - model_name: car_price_prediction, batchSize: 1
+2024-11-25T19:41:51,151 [INFO ] W-9007-car_price_prediction_1.0-stdout MODEL_LOG - model_name: car_price_prediction, batchSize: 1
+2024-11-25T19:41:51,151 [INFO ] W-9006-car_price_prediction_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9006
+2024-11-25T19:41:51,155 [INFO ] W-9005-car_price_prediction_1.0-stdout MODEL_LOG - Successfully loaded /Users/harshithalle/miniconda3/envs/cs224n/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-11-25T19:41:51,156 [INFO ] W-9005-car_price_prediction_1.0-stdout MODEL_LOG - [PID]89709
+2024-11-25T19:41:51,156 [INFO ] W-9005-car_price_prediction_1.0-stdout MODEL_LOG - Torch worker started.
+2024-11-25T19:41:51,156 [INFO ] W-9005-car_price_prediction_1.0-stdout MODEL_LOG - Python runtime: 3.12.5
+2024-11-25T19:41:51,157 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-11-25T19:41:51,157 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-11-25T19:41:51,157 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-11-25T19:41:51,155 [INFO ] W-9007-car_price_prediction_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-11-25T19:41:51,157 [INFO ] W-9001-car_price_prediction_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9001
+2024-11-25T19:41:51,157 [INFO ] W-9006-car_price_prediction_1.0-stdout MODEL_LOG - Successfully loaded /Users/harshithalle/miniconda3/envs/cs224n/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-11-25T19:41:51,157 [INFO ] W-9007-car_price_prediction_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-11-25T19:41:51,158 [INFO ] W-9006-car_price_prediction_1.0-stdout MODEL_LOG - [PID]89711
+2024-11-25T19:41:51,158 [INFO ] W-9007-car_price_prediction_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-11-25T19:41:51,158 [INFO ] W-9000-car_price_prediction_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2024-11-25T19:41:51,159 [INFO ] W-9002-car_price_prediction_1.0-stdout MODEL_LOG - model_name: car_price_prediction, batchSize: 1
+2024-11-25T19:41:51,159 [INFO ] W-9006-car_price_prediction_1.0-stdout MODEL_LOG - Torch worker started.
+2024-11-25T19:41:51,160 [INFO ] W-9006-car_price_prediction_1.0-stdout MODEL_LOG - Python runtime: 3.12.5
+2024-11-25T19:41:51,161 [INFO ] W-9002-car_price_prediction_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-11-25T19:41:51,162 [INFO ] W-9002-car_price_prediction_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-11-25T19:41:51,162 [INFO ] W-9002-car_price_prediction_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-11-25T19:41:51,162 [INFO ] W-9001-car_price_prediction_1.0-stdout MODEL_LOG - Successfully loaded /Users/harshithalle/miniconda3/envs/cs224n/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-11-25T19:41:51,162 [INFO ] W-9001-car_price_prediction_1.0-stdout MODEL_LOG - [PID]89708
+2024-11-25T19:41:51,162 [INFO ] W-9001-car_price_prediction_1.0-stdout MODEL_LOG - Torch worker started.
+2024-11-25T19:41:51,162 [INFO ] W-9001-car_price_prediction_1.0-stdout MODEL_LOG - Python runtime: 3.12.5
+2024-11-25T19:41:51,163 [INFO ] W-9005-car_price_prediction_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9005).
+2024-11-25T19:41:51,163 [INFO ] W-9006-car_price_prediction_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9006).
+2024-11-25T19:41:51,166 [INFO ] W-9000-car_price_prediction_1.0-stdout MODEL_LOG - Successfully loaded /Users/harshithalle/miniconda3/envs/cs224n/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-11-25T19:41:51,166 [INFO ] W-9000-car_price_prediction_1.0-stdout MODEL_LOG - [PID]89710
+2024-11-25T19:41:51,166 [INFO ] W-9000-car_price_prediction_1.0-stdout MODEL_LOG - Torch worker started.
+2024-11-25T19:41:51,166 [INFO ] W-9000-car_price_prediction_1.0-stdout MODEL_LOG - Python runtime: 3.12.5
+2024-11-25T19:41:51,167 [INFO ] W-9001-car_price_prediction_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9001).
+2024-11-25T19:41:51,172 [INFO ] W-9000-car_price_prediction_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2024-11-25T19:41:51,176 [INFO ] W-9005-car_price_prediction_1.0-stdout MODEL_LOG - model_name: car_price_prediction, batchSize: 1
+2024-11-25T19:41:51,180 [INFO ] W-9005-car_price_prediction_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-11-25T19:41:51,180 [INFO ] W-9005-car_price_prediction_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-11-25T19:41:51,180 [INFO ] W-9005-car_price_prediction_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-11-25T19:41:51,181 [INFO ] W-9003-car_price_prediction_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9003
+2024-11-25T19:41:51,182 [INFO ] W-9006-car_price_prediction_1.0-stdout MODEL_LOG - model_name: car_price_prediction, batchSize: 1
+2024-11-25T19:41:51,184 [INFO ] W-9006-car_price_prediction_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-11-25T19:41:51,185 [INFO ] W-9006-car_price_prediction_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-11-25T19:41:51,185 [INFO ] W-9006-car_price_prediction_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-11-25T19:41:51,187 [INFO ] W-9001-car_price_prediction_1.0-stdout MODEL_LOG - model_name: car_price_prediction, batchSize: 1
+2024-11-25T19:41:51,190 [INFO ] W-9003-car_price_prediction_1.0-stdout MODEL_LOG - Successfully loaded /Users/harshithalle/miniconda3/envs/cs224n/lib/python3.12/site-packages/ts/configs/metrics.yaml.
+2024-11-25T19:41:51,190 [INFO ] W-9003-car_price_prediction_1.0-stdout MODEL_LOG - [PID]89707
+2024-11-25T19:41:51,190 [INFO ] W-9003-car_price_prediction_1.0-stdout MODEL_LOG - Torch worker started.
+2024-11-25T19:41:51,190 [INFO ] W-9003-car_price_prediction_1.0-stdout MODEL_LOG - Python runtime: 3.12.5
+2024-11-25T19:41:51,192 [INFO ] W-9001-car_price_prediction_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-11-25T19:41:51,192 [INFO ] W-9001-car_price_prediction_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-11-25T19:41:51,192 [INFO ] W-9001-car_price_prediction_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-11-25T19:41:51,195 [INFO ] W-9003-car_price_prediction_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9003).
+2024-11-25T19:41:51,195 [INFO ] W-9000-car_price_prediction_1.0-stdout MODEL_LOG - model_name: car_price_prediction, batchSize: 1
+2024-11-25T19:41:51,203 [INFO ] W-9000-car_price_prediction_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-11-25T19:41:51,203 [INFO ] W-9000-car_price_prediction_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-11-25T19:41:51,204 [INFO ] W-9000-car_price_prediction_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-11-25T19:41:51,204 [INFO ] W-9003-car_price_prediction_1.0-stdout MODEL_LOG - model_name: car_price_prediction, batchSize: 1
+2024-11-25T19:41:51,209 [INFO ] W-9003-car_price_prediction_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-11-25T19:41:51,210 [INFO ] W-9003-car_price_prediction_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-11-25T19:41:51,210 [INFO ] W-9003-car_price_prediction_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-11-25T19:41:54,505 [WARN ] W-9006-car_price_prediction_1.0-stderr MODEL_LOG - /Users/harshithalle/miniconda3/envs/cs224n/lib/python3.12/site-packages/xgboost/core.py:158: UserWarning: [19:41:54] WARNING: /Users/runner/work/xgboost/xgboost/src/gbm/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+2024-11-25T19:41:54,505 [WARN ] W-9000-car_price_prediction_1.0-stderr MODEL_LOG - /Users/harshithalle/miniconda3/envs/cs224n/lib/python3.12/site-packages/xgboost/core.py:158: UserWarning: [19:41:54] WARNING: /Users/runner/work/xgboost/xgboost/src/gbm/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+2024-11-25T19:41:54,505 [WARN ] W-9004-car_price_prediction_1.0-stderr MODEL_LOG - /Users/harshithalle/miniconda3/envs/cs224n/lib/python3.12/site-packages/xgboost/core.py:158: UserWarning: [19:41:54] WARNING: /Users/runner/work/xgboost/xgboost/src/gbm/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+2024-11-25T19:41:54,505 [WARN ] W-9006-car_price_prediction_1.0-stderr MODEL_LOG - configuration generated by an older version of XGBoost, please export the model by calling
+2024-11-25T19:41:54,505 [WARN ] W-9000-car_price_prediction_1.0-stderr MODEL_LOG - configuration generated by an older version of XGBoost, please export the model by calling
+2024-11-25T19:41:54,505 [WARN ] W-9004-car_price_prediction_1.0-stderr MODEL_LOG - configuration generated by an older version of XGBoost, please export the model by calling
+2024-11-25T19:41:54,505 [WARN ] W-9000-car_price_prediction_1.0-stderr MODEL_LOG - `Booster.save_model` from that version first, then load it back in current version. See:
+2024-11-25T19:41:54,505 [WARN ] W-9000-car_price_prediction_1.0-stderr MODEL_LOG - 
+2024-11-25T19:41:54,505 [WARN ] W-9000-car_price_prediction_1.0-stderr MODEL_LOG -     https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+2024-11-25T19:41:54,505 [WARN ] W-9000-car_price_prediction_1.0-stderr MODEL_LOG - 
+2024-11-25T19:41:54,505 [WARN ] W-9000-car_price_prediction_1.0-stderr MODEL_LOG - for more details about differences between saving model and serializing.
+2024-11-25T19:41:54,505 [WARN ] W-9001-car_price_prediction_1.0-stderr MODEL_LOG - /Users/harshithalle/miniconda3/envs/cs224n/lib/python3.12/site-packages/xgboost/core.py:158: UserWarning: [19:41:54] WARNING: /Users/runner/work/xgboost/xgboost/src/gbm/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+2024-11-25T19:41:54,505 [WARN ] W-9000-car_price_prediction_1.0-stderr MODEL_LOG - 
+2024-11-25T19:41:54,505 [WARN ] W-9005-car_price_prediction_1.0-stderr MODEL_LOG - /Users/harshithalle/miniconda3/envs/cs224n/lib/python3.12/site-packages/xgboost/core.py:158: UserWarning: [19:41:54] WARNING: /Users/runner/work/xgboost/xgboost/src/gbm/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+2024-11-25T19:41:54,506 [WARN ] W-9002-car_price_prediction_1.0-stderr MODEL_LOG - /Users/harshithalle/miniconda3/envs/cs224n/lib/python3.12/site-packages/xgboost/core.py:158: UserWarning: [19:41:54] WARNING: /Users/runner/work/xgboost/xgboost/src/gbm/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+2024-11-25T19:41:54,506 [WARN ] W-9003-car_price_prediction_1.0-stderr MODEL_LOG - /Users/harshithalle/miniconda3/envs/cs224n/lib/python3.12/site-packages/xgboost/core.py:158: UserWarning: [19:41:54] WARNING: /Users/runner/work/xgboost/xgboost/src/gbm/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+2024-11-25T19:41:54,505 [WARN ] W-9004-car_price_prediction_1.0-stderr MODEL_LOG - `Booster.save_model` from that version first, then load it back in current version. See:
+2024-11-25T19:41:54,507 [WARN ] W-9006-car_price_prediction_1.0-stderr MODEL_LOG - `Booster.save_model` from that version first, then load it back in current version. See:
+2024-11-25T19:41:54,507 [WARN ] W-9007-car_price_prediction_1.0-stderr MODEL_LOG - /Users/harshithalle/miniconda3/envs/cs224n/lib/python3.12/site-packages/xgboost/core.py:158: UserWarning: [19:41:54] WARNING: /Users/runner/work/xgboost/xgboost/src/gbm/../common/error_msg.h:80: If you are loading a serialized model (like pickle in Python, RDS in R) or
+2024-11-25T19:41:54,507 [WARN ] W-9007-car_price_prediction_1.0-stderr MODEL_LOG - configuration generated by an older version of XGBoost, please export the model by calling
+2024-11-25T19:41:54,507 [WARN ] W-9007-car_price_prediction_1.0-stderr MODEL_LOG - `Booster.save_model` from that version first, then load it back in current version. See:
+2024-11-25T19:41:54,507 [WARN ] W-9005-car_price_prediction_1.0-stderr MODEL_LOG - configuration generated by an older version of XGBoost, please export the model by calling
+2024-11-25T19:41:54,507 [WARN ] W-9007-car_price_prediction_1.0-stderr MODEL_LOG - 
+2024-11-25T19:41:54,507 [WARN ] W-9007-car_price_prediction_1.0-stderr MODEL_LOG -     https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+2024-11-25T19:41:54,508 [WARN ] W-9006-car_price_prediction_1.0-stderr MODEL_LOG - 
+2024-11-25T19:41:54,508 [WARN ] W-9000-car_price_prediction_1.0-stderr MODEL_LOG -   warnings.warn(smsg, UserWarning)
+2024-11-25T19:41:54,508 [WARN ] W-9004-car_price_prediction_1.0-stderr MODEL_LOG - 
+2024-11-25T19:41:54,508 [WARN ] W-9004-car_price_prediction_1.0-stderr MODEL_LOG -     https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+2024-11-25T19:41:54,508 [WARN ] W-9006-car_price_prediction_1.0-stderr MODEL_LOG -     https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+2024-11-25T19:41:54,508 [WARN ] W-9004-car_price_prediction_1.0-stderr MODEL_LOG - 
+2024-11-25T19:41:54,509 [WARN ] W-9006-car_price_prediction_1.0-stderr MODEL_LOG - 
+2024-11-25T19:41:54,509 [WARN ] W-9006-car_price_prediction_1.0-stderr MODEL_LOG - for more details about differences between saving model and serializing.
+2024-11-25T19:41:54,509 [WARN ] W-9006-car_price_prediction_1.0-stderr MODEL_LOG - 
+2024-11-25T19:41:54,509 [WARN ] W-9002-car_price_prediction_1.0-stderr MODEL_LOG - configuration generated by an older version of XGBoost, please export the model by calling
+2024-11-25T19:41:54,508 [WARN ] W-9003-car_price_prediction_1.0-stderr MODEL_LOG - configuration generated by an older version of XGBoost, please export the model by calling
+2024-11-25T19:41:54,509 [WARN ] W-9006-car_price_prediction_1.0-stderr MODEL_LOG -   warnings.warn(smsg, UserWarning)
+2024-11-25T19:41:54,509 [WARN ] W-9002-car_price_prediction_1.0-stderr MODEL_LOG - `Booster.save_model` from that version first, then load it back in current version. See:
+2024-11-25T19:41:54,509 [WARN ] W-9002-car_price_prediction_1.0-stderr MODEL_LOG - 
+2024-11-25T19:41:54,509 [WARN ] W-9002-car_price_prediction_1.0-stderr MODEL_LOG -     https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+2024-11-25T19:41:54,509 [WARN ] W-9003-car_price_prediction_1.0-stderr MODEL_LOG - `Booster.save_model` from that version first, then load it back in current version. See:
+2024-11-25T19:41:54,509 [WARN ] W-9001-car_price_prediction_1.0-stderr MODEL_LOG - configuration generated by an older version of XGBoost, please export the model by calling
+2024-11-25T19:41:54,509 [WARN ] W-9002-car_price_prediction_1.0-stderr MODEL_LOG - 
+2024-11-25T19:41:54,509 [WARN ] W-9004-car_price_prediction_1.0-stderr MODEL_LOG - for more details about differences between saving model and serializing.
+2024-11-25T19:41:54,509 [WARN ] W-9003-car_price_prediction_1.0-stderr MODEL_LOG - 
+2024-11-25T19:41:54,509 [WARN ] W-9002-car_price_prediction_1.0-stderr MODEL_LOG - for more details about differences between saving model and serializing.
+2024-11-25T19:41:54,510 [WARN ] W-9002-car_price_prediction_1.0-stderr MODEL_LOG - 
+2024-11-25T19:41:54,510 [WARN ] W-9007-car_price_prediction_1.0-stderr MODEL_LOG - 
+2024-11-25T19:41:54,510 [WARN ] W-9002-car_price_prediction_1.0-stderr MODEL_LOG -   warnings.warn(smsg, UserWarning)
+2024-11-25T19:41:54,510 [WARN ] W-9007-car_price_prediction_1.0-stderr MODEL_LOG - for more details about differences between saving model and serializing.
+2024-11-25T19:41:54,510 [WARN ] W-9005-car_price_prediction_1.0-stderr MODEL_LOG - `Booster.save_model` from that version first, then load it back in current version. See:
+2024-11-25T19:41:54,510 [WARN ] W-9005-car_price_prediction_1.0-stderr MODEL_LOG - 
+2024-11-25T19:41:54,510 [WARN ] W-9007-car_price_prediction_1.0-stderr MODEL_LOG - 
+2024-11-25T19:41:54,510 [WARN ] W-9005-car_price_prediction_1.0-stderr MODEL_LOG -     https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+2024-11-25T19:41:54,510 [WARN ] W-9007-car_price_prediction_1.0-stderr MODEL_LOG -   warnings.warn(smsg, UserWarning)
+2024-11-25T19:41:54,510 [WARN ] W-9005-car_price_prediction_1.0-stderr MODEL_LOG - 
+2024-11-25T19:41:54,510 [WARN ] W-9004-car_price_prediction_1.0-stderr MODEL_LOG - 
+2024-11-25T19:41:54,510 [WARN ] W-9004-car_price_prediction_1.0-stderr MODEL_LOG -   warnings.warn(smsg, UserWarning)
+2024-11-25T19:41:54,510 [WARN ] W-9005-car_price_prediction_1.0-stderr MODEL_LOG - for more details about differences between saving model and serializing.
+2024-11-25T19:41:54,510 [WARN ] W-9001-car_price_prediction_1.0-stderr MODEL_LOG - `Booster.save_model` from that version first, then load it back in current version. See:
+2024-11-25T19:41:54,511 [WARN ] W-9005-car_price_prediction_1.0-stderr MODEL_LOG - 
+2024-11-25T19:41:54,511 [WARN ] W-9003-car_price_prediction_1.0-stderr MODEL_LOG -     https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+2024-11-25T19:41:54,511 [WARN ] W-9001-car_price_prediction_1.0-stderr MODEL_LOG - 
+2024-11-25T19:41:54,511 [WARN ] W-9005-car_price_prediction_1.0-stderr MODEL_LOG -   warnings.warn(smsg, UserWarning)
+2024-11-25T19:41:54,511 [WARN ] W-9003-car_price_prediction_1.0-stderr MODEL_LOG - 
+2024-11-25T19:41:54,511 [WARN ] W-9001-car_price_prediction_1.0-stderr MODEL_LOG -     https://xgboost.readthedocs.io/en/stable/tutorials/saving_model.html
+2024-11-25T19:41:54,511 [WARN ] W-9003-car_price_prediction_1.0-stderr MODEL_LOG - for more details about differences between saving model and serializing.
+2024-11-25T19:41:54,511 [WARN ] W-9001-car_price_prediction_1.0-stderr MODEL_LOG - 
+2024-11-25T19:41:54,511 [WARN ] W-9003-car_price_prediction_1.0-stderr MODEL_LOG - 
+2024-11-25T19:41:54,511 [WARN ] W-9001-car_price_prediction_1.0-stderr MODEL_LOG - for more details about differences between saving model and serializing.
+2024-11-25T19:41:54,511 [WARN ] W-9003-car_price_prediction_1.0-stderr MODEL_LOG -   warnings.warn(smsg, UserWarning)
+2024-11-25T19:41:54,511 [WARN ] W-9001-car_price_prediction_1.0-stderr MODEL_LOG - 
+2024-11-25T19:41:54,511 [WARN ] W-9001-car_price_prediction_1.0-stderr MODEL_LOG -   warnings.warn(smsg, UserWarning)
+2024-11-25T19:42:16,377 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - Model directory: /var/folders/dl/9h5ckf99333bjr1dm0m0ngsw0000gn/T/models/63e4b7b79ac84cfc8729370a83c5a68a
+2024-11-25T19:42:16,378 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - Scaler path: /var/folders/dl/9h5ckf99333bjr1dm0m0ngsw0000gn/T/models/63e4b7b79ac84cfc8729370a83c5a68a/scaler.joblib
+2024-11-25T19:42:16,378 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - OHE path: /var/folders/dl/9h5ckf99333bjr1dm0m0ngsw0000gn/T/models/63e4b7b79ac84cfc8729370a83c5a68a/ohe.joblib
+2024-11-25T19:42:16,378 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - Model path: /var/folders/dl/9h5ckf99333bjr1dm0m0ngsw0000gn/T/models/63e4b7b79ac84cfc8729370a83c5a68a/XGBoost.joblib
+2024-11-25T19:42:16,378 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - Initialization complete.
+2024-11-25T19:42:16,378 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - Backend received inference at: 1732543936
+2024-11-25T19:42:16,415 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - Preprocessed row: ['gas', 'std', 'four', 'sedan', 'fwd', 'front', 88.6, 168.8, 64.1, 48.8, 2548, 'ohc', 'four', 130, 'mpfi', 3.47, 2.68, 9.0, 111, 5000, 21, 27]
+2024-11-25T19:42:16,416 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - DataFrame before processing: 
+2024-11-25T19:42:16,416 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG -   fueltype aspiration doornumber  ... peakrpm citympg highwaympg
+2024-11-25T19:42:16,416 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - 0      gas        std       four  ...    5000      21         27
+2024-11-25T19:42:16,416 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - 
+2024-11-25T19:42:16,416 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - [1 rows x 22 columns]
+2024-11-25T19:42:16,416 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - Scaled numeric columns: 
+2024-11-25T19:42:16,416 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG -    wheelbase  carlength  carwidth  ...   peakrpm   citympg  highwaympg
+2024-11-25T19:42:16,416 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - 0  -1.706755  -0.473579   -0.8687  ... -0.318332 -0.647706   -0.534866
+2024-11-25T19:42:16,416 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - 
+2024-11-25T19:42:16,416 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - [1 rows x 13 columns]
+2024-11-25T19:42:16,416 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - One-hot encoded columns: 
+2024-11-25T19:42:16,416 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG -    fueltype_diesel  fueltype_gas  ...  fuelsystem_spdi  fuelsystem_spfi
+2024-11-25T19:42:16,416 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - 0              0.0           1.0  ...              0.0              0.0
+2024-11-25T19:42:16,416 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - 
+2024-11-25T19:42:16,416 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - [1 rows x 38 columns]
+2024-11-25T19:42:16,416 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - DataFrame after processing: 
+2024-11-25T19:42:16,416 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG -    wheelbase  carlength  ...  fuelsystem_spdi  fuelsystem_spfi
+2024-11-25T19:42:16,416 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - 0  -1.706755  -0.473579  ...              0.0              0.0
+2024-11-25T19:42:16,416 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - 
+2024-11-25T19:42:16,416 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - [1 rows x 51 columns]
+2024-11-25T19:42:16,417 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - Predicted price: 13765.80078125
+2024-11-25T19:42:16,417 [INFO ] W-9004-car_price_prediction_1.0-stdout MODEL_LOG - Postprocessed output: [{'predicted_price': 13765.80078125}]
